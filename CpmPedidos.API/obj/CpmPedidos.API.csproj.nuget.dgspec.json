@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admin\\Desktop\\Entity C#\\CpmPedidos\\CpmPedidos.API\\CpmPedidos.API.csproj": {}
+    "C:\\Users\\admin\\curso_Rock_API_.NET_-Entity_Framework\\CpmPedidos.API\\CpmPedidos.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admin\\Desktop\\Entity C#\\CpmPedidos\\CpmPedido.Repository\\CpmPedido.Repository.csproj": {
+    "C:\\Users\\admin\\curso_Rock_API_.NET_-Entity_Framework\\CpmPedido.Repository\\CpmPedido.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\Desktop\\Entity C#\\CpmPedidos\\CpmPedido.Repository\\CpmPedido.Repository.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\curso_Rock_API_.NET_-Entity_Framework\\CpmPedido.Repository\\CpmPedido.Repository.csproj",
         "projectName": "CpmPedido.Repository",
-        "projectPath": "C:\\Users\\admin\\Desktop\\Entity C#\\CpmPedidos\\CpmPedido.Repository\\CpmPedido.Repository.csproj",
+        "projectPath": "C:\\Users\\admin\\curso_Rock_API_.NET_-Entity_Framework\\CpmPedido.Repository\\CpmPedido.Repository.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\Desktop\\Entity C#\\CpmPedidos\\CpmPedido.Repository\\obj\\",
+        "outputPath": "C:\\Users\\admin\\curso_Rock_API_.NET_-Entity_Framework\\CpmPedido.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,11 +32,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\admin\\Desktop\\Entity C#\\CpmPedidos\\CpmPedidos.Doman\\CpmPedidos.Doman.csproj": {
-                "projectPath": "C:\\Users\\admin\\Desktop\\Entity C#\\CpmPedidos\\CpmPedidos.Doman\\CpmPedidos.Doman.csproj"
+              "C:\\Users\\admin\\curso_Rock_API_.NET_-Entity_Framework\\CpmPedidos.Doman\\CpmPedidos.Doman.csproj": {
+                "projectPath": "C:\\Users\\admin\\curso_Rock_API_.NET_-Entity_Framework\\CpmPedidos.Doman\\CpmPedidos.Doman.csproj"
               },
-              "C:\\Users\\admin\\Desktop\\Entity C#\\CpmPedidos\\CpmPedidos.Interfaces\\CpmPedidos.Interfaces.csproj": {
-                "projectPath": "C:\\Users\\admin\\Desktop\\Entity C#\\CpmPedidos\\CpmPedidos.Interfaces\\CpmPedidos.Interfaces.csproj"
+              "C:\\Users\\admin\\curso_Rock_API_.NET_-Entity_Framework\\CpmPedidos.Interfaces\\CpmPedidos.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\admin\\curso_Rock_API_.NET_-Entity_Framework\\CpmPedidos.Interfaces\\CpmPedidos.Interfaces.csproj"
               }
             }
           }
@@ -104,14 +104,14 @@
         }
       }
     },
-    "C:\\Users\\admin\\Desktop\\Entity C#\\CpmPedidos\\CpmPedidos.API\\CpmPedidos.API.csproj": {
+    "C:\\Users\\admin\\curso_Rock_API_.NET_-Entity_Framework\\CpmPedidos.API\\CpmPedidos.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\Desktop\\Entity C#\\CpmPedidos\\CpmPedidos.API\\CpmPedidos.API.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\curso_Rock_API_.NET_-Entity_Framework\\CpmPedidos.API\\CpmPedidos.API.csproj",
         "projectName": "CpmPedidos.API",
-        "projectPath": "C:\\Users\\admin\\Desktop\\Entity C#\\CpmPedidos\\CpmPedidos.API\\CpmPedidos.API.csproj",
+        "projectPath": "C:\\Users\\admin\\curso_Rock_API_.NET_-Entity_Framework\\CpmPedidos.API\\CpmPedidos.API.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\Desktop\\Entity C#\\CpmPedidos\\CpmPedidos.API\\obj\\",
+        "outputPath": "C:\\Users\\admin\\curso_Rock_API_.NET_-Entity_Framework\\CpmPedidos.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -132,14 +132,14 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\admin\\Desktop\\Entity C#\\CpmPedidos\\CpmPedido.Repository\\CpmPedido.Repository.csproj": {
-                "projectPath": "C:\\Users\\admin\\Desktop\\Entity C#\\CpmPedidos\\CpmPedido.Repository\\CpmPedido.Repository.csproj"
+              "C:\\Users\\admin\\curso_Rock_API_.NET_-Entity_Framework\\CpmPedido.Repository\\CpmPedido.Repository.csproj": {
+                "projectPath": "C:\\Users\\admin\\curso_Rock_API_.NET_-Entity_Framework\\CpmPedido.Repository\\CpmPedido.Repository.csproj"
               },
-              "C:\\Users\\admin\\Desktop\\Entity C#\\CpmPedidos\\CpmPedidos.Doman\\CpmPedidos.Doman.csproj": {
-                "projectPath": "C:\\Users\\admin\\Desktop\\Entity C#\\CpmPedidos\\CpmPedidos.Doman\\CpmPedidos.Doman.csproj"
+              "C:\\Users\\admin\\curso_Rock_API_.NET_-Entity_Framework\\CpmPedidos.Doman\\CpmPedidos.Doman.csproj": {
+                "projectPath": "C:\\Users\\admin\\curso_Rock_API_.NET_-Entity_Framework\\CpmPedidos.Doman\\CpmPedidos.Doman.csproj"
               },
-              "C:\\Users\\admin\\Desktop\\Entity C#\\CpmPedidos\\CpmPedidos.Interfaces\\CpmPedidos.Interfaces.csproj": {
-                "projectPath": "C:\\Users\\admin\\Desktop\\Entity C#\\CpmPedidos\\CpmPedidos.Interfaces\\CpmPedidos.Interfaces.csproj"
+              "C:\\Users\\admin\\curso_Rock_API_.NET_-Entity_Framework\\CpmPedidos.Interfaces\\CpmPedidos.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\admin\\curso_Rock_API_.NET_-Entity_Framework\\CpmPedidos.Interfaces\\CpmPedidos.Interfaces.csproj"
               }
             }
           }
@@ -188,14 +188,14 @@
         }
       }
     },
-    "C:\\Users\\admin\\Desktop\\Entity C#\\CpmPedidos\\CpmPedidos.Doman\\CpmPedidos.Doman.csproj": {
+    "C:\\Users\\admin\\curso_Rock_API_.NET_-Entity_Framework\\CpmPedidos.Doman\\CpmPedidos.Doman.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\Desktop\\Entity C#\\CpmPedidos\\CpmPedidos.Doman\\CpmPedidos.Doman.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\curso_Rock_API_.NET_-Entity_Framework\\CpmPedidos.Doman\\CpmPedidos.Doman.csproj",
         "projectName": "CpmPedidos.Doman",
-        "projectPath": "C:\\Users\\admin\\Desktop\\Entity C#\\CpmPedidos\\CpmPedidos.Doman\\CpmPedidos.Doman.csproj",
+        "projectPath": "C:\\Users\\admin\\curso_Rock_API_.NET_-Entity_Framework\\CpmPedidos.Doman\\CpmPedidos.Doman.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\Desktop\\Entity C#\\CpmPedidos\\CpmPedidos.Doman\\obj\\",
+        "outputPath": "C:\\Users\\admin\\curso_Rock_API_.NET_-Entity_Framework\\CpmPedidos.Doman\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -247,14 +247,14 @@
         }
       }
     },
-    "C:\\Users\\admin\\Desktop\\Entity C#\\CpmPedidos\\CpmPedidos.Interfaces\\CpmPedidos.Interfaces.csproj": {
+    "C:\\Users\\admin\\curso_Rock_API_.NET_-Entity_Framework\\CpmPedidos.Interfaces\\CpmPedidos.Interfaces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\Desktop\\Entity C#\\CpmPedidos\\CpmPedidos.Interfaces\\CpmPedidos.Interfaces.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\curso_Rock_API_.NET_-Entity_Framework\\CpmPedidos.Interfaces\\CpmPedidos.Interfaces.csproj",
         "projectName": "CpmPedidos.Interfaces",
-        "projectPath": "C:\\Users\\admin\\Desktop\\Entity C#\\CpmPedidos\\CpmPedidos.Interfaces\\CpmPedidos.Interfaces.csproj",
+        "projectPath": "C:\\Users\\admin\\curso_Rock_API_.NET_-Entity_Framework\\CpmPedidos.Interfaces\\CpmPedidos.Interfaces.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\Desktop\\Entity C#\\CpmPedidos\\CpmPedidos.Interfaces\\obj\\",
+        "outputPath": "C:\\Users\\admin\\curso_Rock_API_.NET_-Entity_Framework\\CpmPedidos.Interfaces\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -275,8 +275,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\admin\\Desktop\\Entity C#\\CpmPedidos\\CpmPedidos.Doman\\CpmPedidos.Doman.csproj": {
-                "projectPath": "C:\\Users\\admin\\Desktop\\Entity C#\\CpmPedidos\\CpmPedidos.Doman\\CpmPedidos.Doman.csproj"
+              "C:\\Users\\admin\\curso_Rock_API_.NET_-Entity_Framework\\CpmPedidos.Doman\\CpmPedidos.Doman.csproj": {
+                "projectPath": "C:\\Users\\admin\\curso_Rock_API_.NET_-Entity_Framework\\CpmPedidos.Doman\\CpmPedidos.Doman.csproj"
               }
             }
           }

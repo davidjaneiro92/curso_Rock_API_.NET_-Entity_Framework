@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DiEvYO2Hc6HW3TJZhe+EppvWXS7CbXgCGLqD3Gb3LlGlW3dHy3aL6mZa5696nPfhxe6R5GAK8XiPHxdRMOBRBg==",
+  "dgSpecHash": "lm+R1WVmYS04Lr/DRsCy0EwDoL+ZT8GHFbj3zDnGrjR7GuRkkqVgEtsIFv1LXycDfoEBqx97wHG9AYOXVQKkiA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\admin\\Desktop\\Entity C#\\CpmPedidos\\CpmPedidos.API\\CpmPedidos.API.csproj",
+  "projectFilePath": "C:\\Users\\admin\\curso_Rock_API_.NET_-Entity_Framework\\CpmPedidos.API\\CpmPedidos.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

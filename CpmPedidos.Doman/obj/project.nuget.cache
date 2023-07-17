@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0zMgetc2G7QcmRMaRiIK2nTJpR2CbttDxFNF+9JbNIBJ4QaeR38EaGM38/qcUm+/66gMTlWZ3LeceZ8PF0oCRQ==",
+  "dgSpecHash": "C+G7vESk/EiOLTNojH083uOqmw42ejfb3c7uyG39DOKwx7+QcxPkN4tUdBmYbqOWP7GZwv9qJHdwKDrcxTnLDw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\admin\\Desktop\\Entity C#\\CpmPedidos\\CpmPedidos.Doman\\CpmPedidos.Doman.csproj",
+  "projectFilePath": "C:\\Users\\admin\\curso_Rock_API_.NET_-Entity_Framework\\CpmPedidos.Doman\\CpmPedidos.Doman.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
