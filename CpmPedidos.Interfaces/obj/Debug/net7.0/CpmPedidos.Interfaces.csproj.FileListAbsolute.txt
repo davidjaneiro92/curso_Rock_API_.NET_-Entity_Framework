@@ -13,3 +13,18 @@ C:\Users\admin\Desktop\Entity C#\CpmPedidos\CpmPedidos.Interfaces\obj\Debug\net7
 C:\Users\admin\Desktop\Entity C#\CpmPedidos\CpmPedidos.Interfaces\obj\Debug\net7.0\refint\CpmPedidos.Interfaces.dll
 C:\Users\admin\Desktop\Entity C#\CpmPedidos\CpmPedidos.Interfaces\obj\Debug\net7.0\CpmPedidos.Interfaces.pdb
 C:\Users\admin\Desktop\Entity C#\CpmPedidos\CpmPedidos.Interfaces\obj\Debug\net7.0\ref\CpmPedidos.Interfaces.dll
+C:\Users\admin\curso_Rock_API_.NET_-Entity_Framework\CpmPedidos.Interfaces\bin\Debug\net7.0\CpmPedidos.Interfaces.deps.json
+C:\Users\admin\curso_Rock_API_.NET_-Entity_Framework\CpmPedidos.Interfaces\bin\Debug\net7.0\CpmPedidos.Interfaces.dll
+C:\Users\admin\curso_Rock_API_.NET_-Entity_Framework\CpmPedidos.Interfaces\bin\Debug\net7.0\CpmPedidos.Interfaces.pdb
+C:\Users\admin\curso_Rock_API_.NET_-Entity_Framework\CpmPedidos.Interfaces\bin\Debug\net7.0\CpmPedidos.Doman.dll
+C:\Users\admin\curso_Rock_API_.NET_-Entity_Framework\CpmPedidos.Interfaces\bin\Debug\net7.0\CpmPedidos.Doman.pdb
+C:\Users\admin\curso_Rock_API_.NET_-Entity_Framework\CpmPedidos.Interfaces\obj\Debug\net7.0\CpmPedidos.Interfaces.csproj.AssemblyReference.cache
+C:\Users\admin\curso_Rock_API_.NET_-Entity_Framework\CpmPedidos.Interfaces\obj\Debug\net7.0\CpmPedidos.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\curso_Rock_API_.NET_-Entity_Framework\CpmPedidos.Interfaces\obj\Debug\net7.0\CpmPedidos.Interfaces.AssemblyInfoInputs.cache
+C:\Users\admin\curso_Rock_API_.NET_-Entity_Framework\CpmPedidos.Interfaces\obj\Debug\net7.0\CpmPedidos.Interfaces.AssemblyInfo.cs
+C:\Users\admin\curso_Rock_API_.NET_-Entity_Framework\CpmPedidos.Interfaces\obj\Debug\net7.0\CpmPedidos.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\admin\curso_Rock_API_.NET_-Entity_Framework\CpmPedidos.Interfaces\obj\Debug\net7.0\CpmPedidos.Interfaces.csproj.CopyComplete
+C:\Users\admin\curso_Rock_API_.NET_-Entity_Framework\CpmPedidos.Interfaces\obj\Debug\net7.0\CpmPedidos.Interfaces.dll
+C:\Users\admin\curso_Rock_API_.NET_-Entity_Framework\CpmPedidos.Interfaces\obj\Debug\net7.0\refint\CpmPedidos.Interfaces.dll
+C:\Users\admin\curso_Rock_API_.NET_-Entity_Framework\CpmPedidos.Interfaces\obj\Debug\net7.0\CpmPedidos.Interfaces.pdb
+C:\Users\admin\curso_Rock_API_.NET_-Entity_Framework\CpmPedidos.Interfaces\obj\Debug\net7.0\ref\CpmPedidos.Interfaces.dll

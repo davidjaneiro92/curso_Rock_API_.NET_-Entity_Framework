@@ -10,3 +10,15 @@ C:\Users\admin\Desktop\Entity C#\CpmPedidos\CpmPedidos.Doman\obj\Debug\net7.0\Cp
 C:\Users\admin\Desktop\Entity C#\CpmPedidos\CpmPedidos.Doman\obj\Debug\net7.0\refint\CpmPedidos.Doman.dll
 C:\Users\admin\Desktop\Entity C#\CpmPedidos\CpmPedidos.Doman\obj\Debug\net7.0\CpmPedidos.Doman.pdb
 C:\Users\admin\Desktop\Entity C#\CpmPedidos\CpmPedidos.Doman\obj\Debug\net7.0\ref\CpmPedidos.Doman.dll
+C:\Users\admin\curso_Rock_API_.NET_-Entity_Framework\CpmPedidos.Doman\bin\Debug\net7.0\CpmPedidos.Doman.deps.json
+C:\Users\admin\curso_Rock_API_.NET_-Entity_Framework\CpmPedidos.Doman\bin\Debug\net7.0\CpmPedidos.Doman.dll
+C:\Users\admin\curso_Rock_API_.NET_-Entity_Framework\CpmPedidos.Doman\bin\Debug\net7.0\CpmPedidos.Doman.pdb
+C:\Users\admin\curso_Rock_API_.NET_-Entity_Framework\CpmPedidos.Doman\obj\Debug\net7.0\CpmPedidos.Doman.csproj.AssemblyReference.cache
+C:\Users\admin\curso_Rock_API_.NET_-Entity_Framework\CpmPedidos.Doman\obj\Debug\net7.0\CpmPedidos.Doman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\curso_Rock_API_.NET_-Entity_Framework\CpmPedidos.Doman\obj\Debug\net7.0\CpmPedidos.Doman.AssemblyInfoInputs.cache
+C:\Users\admin\curso_Rock_API_.NET_-Entity_Framework\CpmPedidos.Doman\obj\Debug\net7.0\CpmPedidos.Doman.AssemblyInfo.cs
+C:\Users\admin\curso_Rock_API_.NET_-Entity_Framework\CpmPedidos.Doman\obj\Debug\net7.0\CpmPedidos.Doman.csproj.CoreCompileInputs.cache
+C:\Users\admin\curso_Rock_API_.NET_-Entity_Framework\CpmPedidos.Doman\obj\Debug\net7.0\CpmPedidos.Doman.dll
+C:\Users\admin\curso_Rock_API_.NET_-Entity_Framework\CpmPedidos.Doman\obj\Debug\net7.0\refint\CpmPedidos.Doman.dll
+C:\Users\admin\curso_Rock_API_.NET_-Entity_Framework\CpmPedidos.Doman\obj\Debug\net7.0\CpmPedidos.Doman.pdb
+C:\Users\admin\curso_Rock_API_.NET_-Entity_Framework\CpmPedidos.Doman\obj\Debug\net7.0\ref\CpmPedidos.Doman.dll

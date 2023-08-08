@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using CpmPedidos.Domain;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
@@ -11,13 +12,13 @@ namespace CpmPedido.Repository
 {
     public class AplicationDbContext : DbContext
     {
-        //public DbSet<Cidade> Cidades { get; set; }
-        //public DbSet<Cliente> Clientes { get; set; }
-        //public DbSet<CategoriaProduto> CategoriasProdutos { get; set; }
-        //public DbSet<Produto> Produtos { get; set; }
-        //public DbSet<PromocaoProduto> PromocoesProdutos { get; set; }
-        //public DbSet<Combo> Combos { get; set; }
-        //public DbSet<Pedido> Pedidos { get; set; }
+        public DbSet<Cidade> Cidades { get; set; }
+        public DbSet<Cliente> Clientes { get; set; }
+        public DbSet<CategoriaProduto> CategoriasProdutos { get; set; }
+        public DbSet<Produto> Produtos { get; set; }
+        public DbSet<PromocaoProduto> PromocoesProdutos { get; set; }
+        public DbSet<Combo> Combos { get; set; }
+        public DbSet<Pedido> Pedidos { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
@@ -31,12 +32,12 @@ namespace CpmPedido.Repository
             optionsBuilder.LogTo(message => Debug.WriteLine(message));
         }
 
-        public ApplicationDbContext()
+        public AplicationDbContext()
         {
             ChangeTracker.AutoDetectChangesEnabled = false;
         }
 
-        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options)
+        public AplicationDbContext(DbContextOptions<AplicationDbContext> options) : base(options)
         {
             ChangeTracker.AutoDetectChangesEnabled = false;
         }
