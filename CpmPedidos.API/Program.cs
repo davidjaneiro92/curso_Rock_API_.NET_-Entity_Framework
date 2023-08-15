@@ -7,19 +7,24 @@ using System.Data.Common;
 
 var builder = WebApplication.CreateBuilder(args);
 
- var DbConnection = new SqlConnection(builder.Configuration.GetConnectionString("conexao"));
- var aplicationDbContext = new AplicationDbContext();
+System.Net.ServicePointManager.ServerCertificateValidationCallback =
+    (sender, certificate, chain, sslPolicyErrors) => true;
+
+var DbConnection = new SqlConnection(builder.Configuration.GetConnectionString("App"));
+var aplicationDbContext = new ApplicationDbContext(
+    new DbContextOptionsBuilder<ApplicationDbContext>()
+        .UseSqlServer(DbConnection, options => options.MigrationsAssembly(typeof(ApplicationDbContext).Assembly.FullName))
+        .Options);
 // Add services to the container.
 
 builder.Services.AddControllers();
 
-IServiceCollection serviceCollection = builder.Services.AddDbContext<AplicationDbContext>(option =>
-{
-    option.UseSqlServer(DbConnection, assembly => assembly.MigrationsAssembly(typeof(AplicationDbContext).Assembly.FullName));
-});
+//IServiceCollection serviceCollection = builder.Services.AddDbContext<ApplicationDbContext>(option =>
+//{
+//    option.UseSqlServer(DbConnection, assembly => assembly.MigrationsAssembly(typeof(ApplicationDbContext).Assembly.FullName));
+//});
 
 var app = builder.Build();
-
 
 // Configure the HTTP request pipeline.
 

@@ -10,7 +10,7 @@ using static Azure.Core.HttpHeader;
 
 namespace CpmPedido.Repository
 {
-    public class AplicationDbContext : DbContext
+    public class ApplicationDbContext : DbContext
     {
         public DbSet<Cidade> Cidades { get; set; }
         public DbSet<Cliente> Clientes { get; set; }
@@ -32,12 +32,12 @@ namespace CpmPedido.Repository
             optionsBuilder.LogTo(message => Debug.WriteLine(message));
         }
 
-        public AplicationDbContext()
+        public ApplicationDbContext()
         {
             ChangeTracker.AutoDetectChangesEnabled = false;
         }
 
-        public AplicationDbContext(DbContextOptions<AplicationDbContext> options) : base(options)
+        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options)
         {
             ChangeTracker.AutoDetectChangesEnabled = false;
         }
